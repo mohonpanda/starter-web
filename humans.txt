@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
     checking rebase conflicets...added in humans.txt in mybranch
+    2nd time-conflicts check
 
 # THANKS
 
