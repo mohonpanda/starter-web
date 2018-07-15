@@ -1,0 +1,3 @@
+a new file added to project to test stash
+
+this file is not tracked yet
