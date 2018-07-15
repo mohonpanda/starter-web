@@ -9,6 +9,8 @@
     2nd time conflic-in my branchi
     ADDING IMPORTANT note on git stash
 
+    putting all stash into new branch
+
 
 # THANKS
 
