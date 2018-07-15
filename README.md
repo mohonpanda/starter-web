@@ -13,3 +13,5 @@ checking git auto merge
 checking rebase...added in README txt
 
 checking rebase in remote repository
+
+changing file file git stash
