@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 ##my add
 
 checking git auto merge
+
+checking rebase...added in README txt
