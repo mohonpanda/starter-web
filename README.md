@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 checking git auto merge
 
 checking rebase...added in README txt
+
+checking rebase in remote repository
