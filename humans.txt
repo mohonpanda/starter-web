@@ -16,3 +16,6 @@
     jQuery, Modernizr
     devops,dockeer,jenkin
 
+##checks for rebase confliucts
+
+ADDED in humans .txt in MASTEWR branch
